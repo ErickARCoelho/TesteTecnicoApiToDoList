@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoTarefas", "GestaoTarefas\GestaoTarefas.csproj", "{87847097-2132-4386-A698-58B2B3D2267E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestaoTarefas.Tests", "GestaoTarefas.Tests\GestaoTarefas.Tests.csproj", "{8A1CD0D1-3EEC-413D-8408-394563B79070}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87847097-2132-4386-A698-58B2B3D2267E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87847097-2132-4386-A698-58B2B3D2267E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87847097-2132-4386-A698-58B2B3D2267E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87847097-2132-4386-A698-58B2B3D2267E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1CD0D1-3EEC-413D-8408-394563B79070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1CD0D1-3EEC-413D-8408-394563B79070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1CD0D1-3EEC-413D-8408-394563B79070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1CD0D1-3EEC-413D-8408-394563B79070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11EB516F-6152-4A0F-A9BC-1F504418D852}
+	EndGlobalSection
+EndGlobal
